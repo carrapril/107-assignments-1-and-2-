@@ -1,0 +1,32 @@
+.navBar {
+    color:rgb(235, 195, 64);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-color: black;
+    padding: 40px;
+}
+.navBar a{
+    color: rgb(235, 195, 64);
+    font-size: 18px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   
+}
+.navBar h1{
+    font-size: 35px;
+    letter-spacing: 3px;
+}
+.navBar a:hover{
+    background-color:azure;
+    color:black;
+}
+.navBar input{
+    float: right;
+    padding: 10px 12px;
+    border: none;
+    margin-top: 6px;
+    margin-right: 16px;
+    font-size: 17px;
+
+}
